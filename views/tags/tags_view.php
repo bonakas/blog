@@ -1,3 +1,4 @@
+<?php
 /**
  * Created by JetBrains PhpStorm.
  * User: Administrator
@@ -5,7 +6,7 @@
  * Time: 23:11
  * To change this template use File | Settings | File Templates.
  */
-
+?>
 
 
 </div>
